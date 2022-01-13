@@ -1,6 +1,5 @@
 # final
 
-this;
 
 #include <iostream>
 using namespace std;
